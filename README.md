@@ -1,15 +1,15 @@
-# Часть 1: Проектирование тестов для Яндекс.Самоката
-
 [Задание 1: чек-лист](https://docs.google.com/spreadsheets/d/1PHdZlZyfySxDWuQs2lDZUW17S6EghfvKYV8QNpZ9KXA/edit?gid=943703744#gid=943703744)
 
 [Задание 1: данные валидации](https://docs.google.com/spreadsheets/d/1PHdZlZyfySxDWuQs2lDZUW17S6EghfvKYV8QNpZ9KXA/edit?gid=1540465171#gid=1540465171)
 
 [Задание 1: баги вне тестовой документации»](https://docs.google.com/spreadsheets/d/1PHdZlZyfySxDWuQs2lDZUW17S6EghfvKYV8QNpZ9KXA/edit?gid=1539613303#gid=1539613303)
 
-[адание 2: тест-кейсы](https://docs.google.com/spreadsheets/d/1PHdZlZyfySxDWuQs2lDZUW17S6EghfvKYV8QNpZ9KXA/edit?gid=424948590#gid=424948590)
+[Задание 2: тест-кейсы](https://docs.google.com/spreadsheets/d/1PHdZlZyfySxDWuQs2lDZUW17S6EghfvKYV8QNpZ9KXA/edit?gid=424948590#gid=424948590)
 
 [Баг-репорты](https://docs.google.com/spreadsheets/d/1PHdZlZyfySxDWuQs2lDZUW17S6EghfvKYV8QNpZ9KXA/edit?gid=791488173#gid=791488173)
 
+
+# Часть 1: Проектирование тестов для Яндекс.Самоката
 
 [Методичка по работе стенда](https://code.s3.yandex.net/qa/files/server_operation.pdf)
 
